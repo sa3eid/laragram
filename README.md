@@ -1,6 +1,5 @@
 # Description
 ---
-
 Laragram is an instagram clone application, built using PHP Laravel Framework, to register users, add profile image, add posts and follow/unfollow other users
 ---
 # Important Notes
